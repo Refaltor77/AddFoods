@@ -34,5 +34,3 @@ This project is licensed under the [License Name](https://github.com/Refaltor77/
 We would like to thank the PocketMine-MP community for their support and contributions to this project.
 
 ---
-
-Feel free to customize this README by adding more details about your plugin and its functionality. Make sure to provide a valid download link and clearly specify the details of the license you have chosen for your plugin.
