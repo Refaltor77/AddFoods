@@ -15,6 +15,18 @@
     },
     "tacos": {
       "textures": "textures/items/foods/tacos"
+    },
+    "cheesecake": {
+      "textures": "textures/items/foods/cheesecake"
+    },
+    "donut": {
+      "textures": "textures/items/foods/donut"
+    },
+    "kinder": {
+      "textures": "textures/items/foods/kinder"
+    },
+    "pepperoni": {
+      "textures": "textures/items/foods/pepperoni"
     }
   },
   "texture_name": "atlas.items"

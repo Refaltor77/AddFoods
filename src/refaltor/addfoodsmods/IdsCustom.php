@@ -9,4 +9,8 @@ interface IdsCustom
     const PIZZA = "custom:pizza";
     const SANDWICH = "custom:sandwich";
     const TACOS = "custom:tacos";
+    const CHEESECAKE = "custom:cheesecake";
+    const KINDER = "custom:kinder";
+    const PEPPERONI = "custom:pepperoni";
+    const DONUT = "custom:donut";
 }
