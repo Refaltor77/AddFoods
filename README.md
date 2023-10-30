@@ -23,7 +23,7 @@ Players can enjoy the new food items added by the plugin while playing the game.
 
 ## Contributors
 
-- [Your Name](https://github.com/Refaltor77) - Lead Developer
+- [Refaltor](https://github.com/Refaltor77) - Lead Developer
 
 ## License
 
