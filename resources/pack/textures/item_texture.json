@@ -1,0 +1,21 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_data": {
+    "beef_steak": {
+      "textures": "textures/items/foods/beef_steak"
+    },
+    "cheese": {
+      "textures": "textures/items/foods/cheese"
+    },
+    "pizza": {
+      "textures": "textures/items/foods/pizza"
+    },
+    "sandwich": {
+      "textures": "textures/items/foods/sandwich"
+    },
+    "tacos": {
+      "textures": "textures/items/foods/tacos"
+    }
+  },
+  "texture_name": "atlas.items"
+}

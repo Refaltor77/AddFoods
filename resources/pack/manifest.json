@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "AddFoodsMods is a plugin that adds food to your PocketMine server",
+        "name": "AddFoodsMods",
+        "uuid": "c5692ed2-81ae-85a1-97ea-b6ed9435856e",
+        "version": [2, 0, 0],
+        "min_engine_version": [ 1, 18, 0 ]
+    },
+    "modules": [
+        {
+            "description": "AddFoodsMods",
+            "type": "resources",
+            "uuid": "182cf916-5e46-79fc-817f-f75494668ad2",
+            "version": [0, 0, 1]
+        }
+    ]
+}

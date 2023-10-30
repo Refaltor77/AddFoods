@@ -1,0 +1,7 @@
+name: AddFoodsMods
+main: refaltor\addfoodsmods\Main
+author: refaltor
+version: 1.0.0
+api: 5.0.0
+depend:
+  - Customies
