@@ -19,7 +19,7 @@ class Main extends PluginBase
 {
     protected function onLoad(): void
     {
-        $pack = Packs::generatePackFromResources($this, "pack");
+        $pack = Packs::generatePackFromResources($this, "pack_foods");
         Packs::registerResourcePack($pack);
     }
 
