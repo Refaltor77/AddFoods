@@ -17,6 +17,13 @@ use refaltor\addfoodsmods\libs\Packs;
 
 class Main extends PluginBase
 {
+    protected function onLoad(): void
+    {
+        $pack = Packs::generatePackFromResources($this, "pack");
+        Packs::registerResourcePack($pack);
+    }
+
+
     protected function onEnable(): void
     {
         CustomiesItemFactory::getInstance()->registerItem(BeefSteak::class, IdsCustom::BEEF_STEAK, "Beef Steak");
@@ -28,9 +35,5 @@ class Main extends PluginBase
         CustomiesItemFactory::getInstance()->registerItem(Donut::class, IdsCustom::DONUT, "Donut");
         CustomiesItemFactory::getInstance()->registerItem(Kinder::class, IdsCustom::KINDER, "Kinder");
         CustomiesItemFactory::getInstance()->registerItem(Pepperoni::class, IdsCustom::PEPPERONI, "Pepperoni");
-
-        $pack = Packs::generatePackFromResources($this, "pack");
-        Packs::unregisterResourcePack($pack);
-        Packs::registerResourcePack($pack);
     }
 }
