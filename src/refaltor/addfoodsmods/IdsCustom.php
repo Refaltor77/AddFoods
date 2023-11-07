@@ -4,13 +4,13 @@ namespace refaltor\addfoodsmods;
 
 interface IdsCustom
 {
-    const CHEESE = "custom:chesse";
-    const BEEF_STEAK = "custom:beef_steak";
-    const PIZZA = "custom:pizza";
-    const SANDWICH = "custom:sandwich";
-    const TACOS = "custom:tacos";
-    const CHEESECAKE = "custom:cheesecake";
-    const KINDER = "custom:kinder";
-    const PEPPERONI = "custom:pepperoni";
-    const DONUT = "custom:donut";
+    const CHEESE = "addfoods:chesse";
+    const BEEF_STEAK = "addfoods:beef_steak";
+    const PIZZA = "addfoods:pizza";
+    const SANDWICH = "addfoods:sandwich";
+    const TACOS = "addfoods:tacos";
+    const CHEESECAKE = "addfoods:cheesecake";
+    const KINDER = "addfoods:kinder";
+    const PEPPERONI = "addfoods:pepperoni";
+    const DONUT = "addfoods:donut";
 }
